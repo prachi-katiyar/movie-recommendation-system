@@ -6,12 +6,7 @@ A web-based movie recommendation system that suggests movies based on user input
 
 - Search movies by title or keywords
 - Get movie recommendations based on content similarity
-- View movie details including:
-  - Title and year
-  - Rating
-  - Overview
-  - Genres
-  - Poster image
+- View movie details
 - Simple and intuitive user interface
 - Real-time search results
 - Popular and recent movie listings
@@ -74,12 +69,6 @@ http://localhost:5000
 3. View the list of recommended movies
 4. Each recommendation shows:
    - Movie title
-   - Ranking
-   - Year
-   - Rating
-   - Overview
-   - Genres
-   - Poster image
 
 ## Project Structure
 
